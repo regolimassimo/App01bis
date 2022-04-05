@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App 01 bis</string>
+    <string name="red">Rosso</string>
+    <string name="green">Verde</string>
+    <string name="blue">Blu</string>
+    <string name="message">"Hai cliccato su "</string>
+    <string name="gr">verde</string>
+    <string name="bl">blu</string>
+    <string name="rd">rosso</string>
+</resources>

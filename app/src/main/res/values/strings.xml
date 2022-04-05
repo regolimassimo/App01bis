@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App 01 bis</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="ciao_mamma" translatable="false">CIAO MAMMA</string>
+    <string name="message">You clicked on button </string>
+    <string name="gr">green</string>
+    <string name="bl">blue</string>
+    <string name="rd">red</string>
+</resources>
